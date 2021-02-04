@@ -5,3 +5,6 @@
   ![ying](!../../picture/yingbi.jpg)
 * 焊了排针和硬币做对比
  ![yingbi](!./../picture/paizhen.jpg)
+
+## usb烧录工具
+  [STM32烧录工具链接](./software/stsw-stm32080.zip)
